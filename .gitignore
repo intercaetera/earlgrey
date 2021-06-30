@@ -23,7 +23,7 @@ erl_crash.dump
 earlgrey-*.tar
 
 #ignore config
-config
+config/config.exs
 
 # ignore databases
 characters
